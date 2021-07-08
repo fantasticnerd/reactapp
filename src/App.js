@@ -12,8 +12,8 @@ function App() {
     </h1></div>
   <div className="container">
     <p className="info">Hello World!! <br />
-      My name is Preet Jain. I am a 21 years old aspiring<strong> Web Developer </strong>
-      I started my coding journey journey five years ago. The languages that I speak are <br />
+      My name is Preet Jain. I am a 21 years old aspiring <strong> Web Developer </strong>
+       I started my coding journey journey five years ago. The languages that I speak are <br />
       HTML,CSS,JavaScript,Java,C++ and Python.
     </p>
   </div>
